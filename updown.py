@@ -13,4 +13,4 @@ while(going_on):
     elif q > nkey:
         print("Trop haut ! Visez plus bas.")
     else:
-        print("Trop bas ! Visez plus haut.")
+        print("Trop bas ! Visez plus haut, genre la lune.")
