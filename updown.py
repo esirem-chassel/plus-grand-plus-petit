@@ -1,6 +1,6 @@
 import random
 
-# test command 2
+# test command 3
 
 path_tries = '.nbt'
 path_games = '.nbp'
